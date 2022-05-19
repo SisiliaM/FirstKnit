@@ -14,10 +14,10 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  I attended Highland High School.I graduated six months early before the school year ended in 2022. Math is easier than English was. I did best in my math class.
+  I attended Highland High School.I graduated six months early before the school year ends in 2022. Math is easier than English was. I did best in my math class.
 
      
 
